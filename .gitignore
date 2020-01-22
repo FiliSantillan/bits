@@ -1,0 +1,72 @@
+######################
+# Compiled source #
+######################
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.sh
+
+######################
+# Packages #
+######################
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+######################
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+######################
+# GO #
+######################
+bin
+pkg
+emerald
+
+######################
+# Production #
+######################
+dist/
+
+######################
+# OTHERS #
+######################
+Templates/
+VSCodeThemes/
+Quiz/
+*.psd
+*-code-*.png
+
+######################
+# NodeJS / JS #
+######################
+node_modules
+.jshintrc
+.babelrc
+*.log
+
+######################
+# VSSettings #
+######################
+.vscode
+
+######################
+# Trash #
+######################
+*.swp
+*.swo
