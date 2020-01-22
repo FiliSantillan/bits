@@ -50,7 +50,7 @@ Templates/
 VSCodeThemes/
 Quiz/
 *.psd
-*-code-*.png
+*-code*.png
 
 ######################
 # NodeJS / JS #
