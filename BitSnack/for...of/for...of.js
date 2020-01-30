@@ -1,5 +1,3 @@
-import { transform } from "async";
-
 // Sintaxis
 
 for ( variable of iterable ) {

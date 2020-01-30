@@ -12,7 +12,6 @@ Existen tres tipos de bits hasta el momento:
 2. **BitSnack**: Una serie de imágenes que explican un tema o tecnología.
 3. **BitStory**: Imágenes que cuentan el origen y transcurso de un tema o tecnología en concreto.
 
-
 ## 🤓 Aprende algo nuevo hoy
 
 > Comparto los **bits** al menos una vez por semana.
@@ -28,8 +27,8 @@ Sitio web: http://filisantillan.com
   - [for...of](/BitCode/for...of/for...of.md)
 - [BitSnack](/BitSnack/)
   - [Destructuring](/BitSnack/Destructuring/destructuring.md)
+  - [for...of](/BitSnack/for...of/for...of.md)
 - [BitStory](/BitStory/)
-
 
 ## ✨  Comparte
 
