@@ -44,7 +44,7 @@ Cualquier contribución es bienvenida, si crees que podrías tener un tema inter
 En cada **Bit** vas a ver los recursos que utilize para la creación del mismo. Aunque quisiera hacer algunas menciones generales que me ayudaron a lograr este tipo de contenido.
 
 - [Samantha Ming](https://www.instagram.com/samanthaming/): Aunque ya compartía este contenido desde hace tiempo en mis redes sociales, sus **tidbits** fueron de gran inspiración para darles forma a mis bits.
-- Las portadas y finales usan iconos de freepik: https://www.flaticon.es/autores/freepik
+- Las portadas y finales usan iconos de Freepik: https://www.flaticon.es/autores/freepik
 
 
 ## 📜 Licencia
