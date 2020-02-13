@@ -16,8 +16,6 @@ Código utilizado en los ejemplos: [destructuring.js](/BitSnack/Destructuring/de
 
 ![Destructuring 06 ](/BitSnack/Destructuring/Destructuring-06.png)
 
-![Destructuring 07 ](/BitSnack/Destructuring/Destructuring-07.png)
-
 ## 🤓 Aprende algo nuevo hoy
 
 > Comparto los **bits** al menos una vez por semana.

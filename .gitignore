@@ -47,7 +47,7 @@ dist/
 # OTHERS #
 ######################
 Templates/
-VSCodeThemes/
+VSCode-Themes/
 Quiz/
 *.psd
 *-code*.png
