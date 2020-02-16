@@ -23,6 +23,6 @@ Sitio web: http://filisantillan.com
 
 ## 📚 Recursos
 
-- [MDN for...of](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in)
+- [MDN for...in](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in)
 - [for...of vs for...in](https://alligator.io/js/for-of-for-in-loops/)
 - Iconos: [Nikita Golubev](https://www.flaticon.es/autores/nikita-golubev) y [itim2101](https://www.flaticon.es/autores/itim2101) 

@@ -2,7 +2,7 @@
 
 `for...of` crea un bucle que itera a través de los elementos de objetos iterables (Array, Map, Set, el objeto arguments, etc.), ejecutándose por cada iteración usando el valor del elemento que corresponda.
 
-Código utilizado en los ejemplos: [for...of.js](/BitCode/for...of/for...of.js)
+> Código utilizado en los ejemplos: [for...of.js](/BitCode/for...of/for...of.js)
 
 ![for..of code](/BitCode/for...of/for...of.png)
 

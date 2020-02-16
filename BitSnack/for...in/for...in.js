@@ -1,10 +1,9 @@
 
 // Sintaxis
 
+for (variable in objeto) { ... }
 
-for (variable in objeto) {
- // Código ...
-}
+
 
 // Ejemplo
 

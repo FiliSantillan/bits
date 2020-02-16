@@ -24,10 +24,11 @@ Sitio web: http://filisantillan.com
 ## ❤ Contenido
 - [BitCode](/BitCode/)
   - [Destructuring](/BitCode/Destructuring/destructuring.md)
-  - [for...in](/BitSnack/for...in/for...in.md)
+  - [for...in](/BitCode/for...in/for...in.md)
   - [for...of](/BitCode/for...of/for...of.md)
 - [BitSnack](/BitSnack/)
   - [Destructuring](/BitSnack/Destructuring/destructuring.md)
+  - [for...in](/BitSnack/for...in/for...in.md)
   - [for...of](/BitSnack/for...of/for...of.md)
 - [BitStory](/BitStory/)
 

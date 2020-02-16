@@ -2,7 +2,7 @@
 
 La asignación por desestructuración nos permite extraer datos de arrays u objetos usando la sintaxis de `[ ]` y `{ }` para asignarlo a variables.
 
-Código utilizado en los ejemplos: [destructuring.js](/BitCode/Destructuring/destructuring.js)
+> Código utilizado en los ejemplos: [destructuring.js](/BitCode/Destructuring/destructuring.js)
 
 ![Destructuring Code](/BitCode/Destructuring/Destructuring.png)
 
