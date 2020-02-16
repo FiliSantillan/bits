@@ -2,7 +2,7 @@
 
 `for...in` itera sobre todas las propiedades de un objeto. Es decir, que por cada elemento se aplicara la sentencia especificada.
 
-Código utilizado en los ejemplos: [for...in.js](/BitSnack/for...in/for...in.js)
+> Código utilizado en los ejemplos: [for...in.js](/BitSnack/for...in/for...in.js)
 
 ![for...in-01](./for...in-01.png)
 
@@ -23,6 +23,6 @@ Sitio web: http://filisantillan.com
 
 ## 📚 Recursos
 
-- [MDN for...of](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of)
+- [MDN for...of](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in)
 - [for...of vs for...in](https://alligator.io/js/for-of-for-in-loops/)
-- Iconos: [freepik](https://www.flaticon.es/autores/freepik) y [Pixel perfect](https://www.flaticon.es/autores/freepik) 
+- Iconos: [Nikita Golubev](https://www.flaticon.es/autores/nikita-golubev) y [itim2101](https://www.flaticon.es/autores/itim2101) 
