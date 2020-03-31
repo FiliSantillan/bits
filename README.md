@@ -23,6 +23,7 @@ Sitio web: http://filisantillan.com
 
 ## ❤ Contenido
 - [BitCode](/BitCode/)
+  - [Clipboard API](/BitCode/ClipboardApi/clipboardApi.md)
   - [Destructuring](/BitCode/Destructuring/destructuring.md)
   - [forEach](/BitCode/forEach/forEach.md)
   - [for...in](/BitCode/for...in/for...in.md)
