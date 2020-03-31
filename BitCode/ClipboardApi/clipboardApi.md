@@ -13,8 +13,4 @@ Clipboard API da la capacidad de responder a los comandos del portapapeles (leer
 Instagram: [@fili.santillan](https://www.instagram.com/fili.santillan/)  
 Twitter: [@FiliSantillan](https://twitter.com/FiliSantillan)  
 Facebook: [Fili Santillán](https://www.facebook.com/FiliSantillan96/)  
-Sitio web: http://filisantillan.com  
-
-## 📚 Recursos
-
-- [MDN Destructuring](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Operadores/Destructuring_assignment)
+Sitio web: http://filisantillan.com   
