@@ -33,6 +33,7 @@ Sitio web: http://filisantillan.com
   - [forEach](/BitSnack/forEach/forEach.md)
   - [for...in](/BitSnack/for...in/for...in.md)
   - [for...of](/BitSnack/for...of/for...of.md)
+  - [includes](/BitSnack/includes/includes.md)
 - [BitStory](/BitStory/)
 
 ## ✨  Comparte
