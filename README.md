@@ -28,6 +28,7 @@ Sitio web: http://filisantillan.com
   - [forEach](/BitCode/forEach/forEach.md)
   - [for...in](/BitCode/for...in/for...in.md)
   - [for...of](/BitCode/for...of/for...of.md)
+  - [Scroll Snap](/BitCode/scroll-snap/scroll-snap.md)
 - [BitSnack](/BitSnack/)
   - [Destructuring](/BitSnack/Destructuring/destructuring.md)
   - [forEach](/BitSnack/forEach/forEach.md)
