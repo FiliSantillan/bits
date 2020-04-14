@@ -23,18 +23,25 @@ Sitio web: http://filisantillan.com
 
 ## ❤ Contenido
 - [BitCode](/BitCode/)
-  - [Clipboard API](/BitCode/ClipboardApi/clipboardApi.md)
-  - [Destructuring](/BitCode/Destructuring/destructuring.md)
-  - [forEach](/BitCode/forEach/forEach.md)
-  - [for...in](/BitCode/for...in/for...in.md)
-  - [for...of](/BitCode/for...of/for...of.md)
-  - [Scroll Snap](/BitCode/scroll-snap/scroll-snap.md)
+  - CSS:
+    - [Scroll Snap](/BitCode/scroll-snap/scroll-snap.md)
+
+  - JavaScript:
+    - [Clipboard API](/BitCode/ClipboardApi/clipboardApi.md)
+    - [Destructuring](/BitCode/Destructuring/destructuring.md)
+    - [for...in](/BitCode/for...in/for...in.md)
+    - [for...of](/BitCode/for...of/for...of.md)
+    - [forEach](/BitCode/forEach/forEach.md)
+
 - [BitSnack](/BitSnack/)
-  - [Destructuring](/BitSnack/Destructuring/destructuring.md)
-  - [forEach](/BitSnack/forEach/forEach.md)
-  - [for...in](/BitSnack/for...in/for...in.md)
-  - [for...of](/BitSnack/for...of/for...of.md)
-  - [includes](/BitSnack/includes/includes.md)
+  - JavaScript:
+    - [Destructuring](/BitSnack/Destructuring/destructuring.md)
+    - [for...in](/BitSnack/for...in/for...in.md)
+    - [for...of](/BitSnack/for...of/for...of.md)
+    - [forEach](/BitSnack/forEach/forEach.md)
+    - [includes()](/BitSnack/includes/includes.md)
+    - [Object.entries()](/BitSnack/Object.entries/Object.entries.md)
+
 - [BitStory](/BitStory/)
 
 ## ✨  Comparte
