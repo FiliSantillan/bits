@@ -32,6 +32,7 @@ Sitio web: http://filisantillan.com
     - [for...in](/BitCode/for...in/for...in.md)
     - [for...of](/BitCode/for...of/for...of.md)
     - [forEach](/BitCode/forEach/forEach.md)
+    - [trim()](/BitCode/trim/trim.md)
 
 - [BitSnack](/BitSnack/)
   - JavaScript:
