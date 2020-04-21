@@ -42,6 +42,7 @@ Sitio web: http://filisantillan.com
     - [forEach](/BitSnack/forEach/forEach.md)
     - [includes()](/BitSnack/includes/includes.md)
     - [Object.entries()](/BitSnack/Object.entries/Object.entries.md)
+    - [Object.values()](/BitSnack/Object.values/Object.values.md)
 
 - [BitStory](/BitStory/)
 
