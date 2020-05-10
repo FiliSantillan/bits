@@ -41,6 +41,7 @@ Sitio web: http://filisantillan.com
 -   [BitSnack](/BitSnack/)
 
     -   JavaScript:
+
         -   [Destructuring](/BitSnack/Destructuring/destructuring.md)
         -   [for...in](/BitSnack/for...in/for...in.md)
         -   [for...of](/BitSnack/for...of/for...of.md)
@@ -48,6 +49,8 @@ Sitio web: http://filisantillan.com
         -   [includes()](/BitSnack/includes/includes.md)
         -   [Object.entries()](/BitSnack/Object.entries/Object.entries.md)
         -   [Object.values()](/BitSnack/Object.values/Object.values.md)
+
+    -   Otros
         -   [VSCode extensiones](/BitSnack/vscode-extensions/VSCode-extensions.md)
 
 -   [BitStory](/BitStory/)
