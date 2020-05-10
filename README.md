@@ -48,6 +48,7 @@ Sitio web: http://filisantillan.com
         -   [includes()](/BitSnack/includes/includes.md)
         -   [Object.entries()](/BitSnack/Object.entries/Object.entries.md)
         -   [Object.values()](/BitSnack/Object.values/Object.values.md)
+        -   [VSCode extensiones](/BitSnack/vscode-extensions/VSCode-extensions.md)
 
 -   [BitStory](/BitStory/)
 
