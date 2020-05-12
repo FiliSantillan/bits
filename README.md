@@ -43,12 +43,14 @@ Sitio web: http://filisantillan.com
     -   JavaScript:
 
         -   [Destructuring](/BitSnack/Destructuring/destructuring.md)
+        -   [ES2020](/BitSnack/ES2020/ES2020.md)
         -   [for...in](/BitSnack/for...in/for...in.md)
         -   [for...of](/BitSnack/for...of/for...of.md)
         -   [forEach](/BitSnack/forEach/forEach.md)
         -   [includes()](/BitSnack/includes/includes.md)
         -   [Object.entries()](/BitSnack/Object.entries/Object.entries.md)
         -   [Object.values()](/BitSnack/Object.values/Object.values.md)
+
 
     -   Otros
         -   [VSCode extensiones](/BitSnack/vscode-extensions/VSCode-extensions.md)
