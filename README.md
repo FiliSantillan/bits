@@ -36,6 +36,7 @@ Sitio web: http://filisantillan.com
         -   [for...in](/BitCode/for...in/for...in.md)
         -   [for...of](/BitCode/for...of/for...of.md)
         -   [forEach](/BitCode/forEach/forEach.md)
+        -   [Promise.allSettled](/BitCode/Promise.allSettled/Promise.allSettled.md)
         -   [Rest VS. Arguments](/BitCode/RestVSArguments/RestVSArguments.md)
         -   [trim()](/BitCode/trim/trim.md)
 
@@ -55,8 +56,6 @@ Sitio web: http://filisantillan.com
 
     -   Otros
         -   [VSCode extensiones](/BitSnack/vscode-extensions/VSCode-extensions.md)
-
--   [BitStory](/BitStory/)
 
 ## ✨ Comparte
 
