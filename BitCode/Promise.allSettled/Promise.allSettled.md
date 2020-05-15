@@ -4,7 +4,7 @@ El método `Promise.allSettled()` devuelve una promesa que es resuelta después 
 
 > Código utilizado en los ejemplos: [Promise.allSettled()](./../Promise.allSettled/Promise.allSettled.js)
 
-Bit completo en:[filisantillan.com](filisantillan.com/bits/promise-allsettled/)
+Bit completo en:[filisantillan.com](https://filisantillan.com/bits/promise-allsettled/)
 
 ![Promise.allSettled](./../Promise.allSettled/promise.allSettled.png)
 
@@ -15,9 +15,9 @@ Bit completo en:[filisantillan.com](filisantillan.com/bits/promise-allsettled/)
 Instagram: [@fili.santillan](https://www.instagram.com/fili.santillan/)  
 Twitter: [@FiliSantillan](https://twitter.com/FiliSantillan)  
 Facebook: [Fili Santillán](https://www.facebook.com/FiliSantillan96/)  
-Sitio web: http://filisantillan.com  
+Sitio web: http://filisantillan.com
 
 ## 📚 Recursos
 
-- [MDN Promise.allSettled()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/allSettled)
-- [TC39 Promise.allSettled() Proposal](https://github.com/tc39/proposal-promise-allSettled)
+-   [MDN Promise.allSettled()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/allSettled)
+-   [TC39 Promise.allSettled() Proposal](https://github.com/tc39/proposal-promise-allSettled)
