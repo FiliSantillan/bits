@@ -51,6 +51,7 @@ VSCode-Themes/
 Quiz/
 *.psd
 *-code*.png
+*@2x.png
 
 ######################
 # NodeJS / JS #
