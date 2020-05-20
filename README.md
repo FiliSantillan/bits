@@ -36,6 +36,7 @@ Sitio web: http://filisantillan.com
         -   [for...in](/BitCode/for...in/for...in.md)
         -   [for...of](/BitCode/for...of/for...of.md)
         -   [forEach](/BitCode/forEach/forEach.md)
+        -   [globalThis](/BitCode/globalThis/globalThis.md)
         -   [Promise.allSettled](/BitCode/Promise.allSettled/Promise.allSettled.md)
         -   [Rest VS. Arguments](/BitCode/RestVSArguments/RestVSArguments.md)
         -   [trim()](/BitCode/trim/trim.md)
@@ -49,13 +50,13 @@ Sitio web: http://filisantillan.com
         -   [for...in](/BitSnack/for...in/for...in.md)
         -   [for...of](/BitSnack/for...of/for...of.md)
         -   [forEach](/BitSnack/forEach/forEach.md)
-        -   [Ghost](/BitSnack/Ghost/Ghost.md)
         -   [includes()](/BitSnack/includes/includes.md)
         -   [Object.entries()](/BitSnack/Object.entries/Object.entries.md)
         -   [Object.values()](/BitSnack/Object.values/Object.values.md)
 
 
     -   Otros
+        -   [Ghost](/BitSnack/Ghost/Ghost.md)
         -   [VSCode extensiones](/BitSnack/vscode-extensions/VSCode-extensions.md)
 
 ## ✨ Comparte
