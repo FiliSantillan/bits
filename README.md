@@ -53,6 +53,7 @@ Sitio web: http://filisantillan.com
         -   [includes()](/BitSnack/includes/includes.md)
         -   [Object.entries()](/BitSnack/Object.entries/Object.entries.md)
         -   [Object.values()](/BitSnack/Object.values/Object.values.md)
+        -   [var, let y const](/BitSnack/var-let-const/var-let-const.md)
 
 
     -   Otros
