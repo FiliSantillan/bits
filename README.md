@@ -33,6 +33,7 @@ Sitio web: http://filisantillan.com
         -   [BigInt](/BitCode/BigInt/BigInt.md)
         -   [Clipboard API](/BitCode/ClipboardApi/clipboardApi.md)
         -   [Destructuring](/BitCode/Destructuring/destructuring.md)
+        -   [Dynamic import](/BitCode/DynamicImport/dynamic-import.md)
         -   [for...in](/BitCode/for...in/for...in.md)
         -   [for...of](/BitCode/for...of/for...of.md)
         -   [forEach](/BitCode/forEach/forEach.md)
@@ -59,6 +60,7 @@ Sitio web: http://filisantillan.com
     -   Otros
         -   [Ghost](/BitSnack/Ghost/Ghost.md)
         -   [VSCode extensiones](/BitSnack/vscode-extensions/VSCode-extensions.md)
+        -   [VSCode temas](/BitSnack/vscode-theme/vscode-themes.md)
 
 ## ✨ Comparte
 
