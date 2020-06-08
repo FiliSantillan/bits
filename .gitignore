@@ -52,6 +52,9 @@ Quiz/
 *.psd
 *-code*.png
 *@2x.png
+*-tw.png
+*-fb.png
+*-in.png
 
 ######################
 # NodeJS / JS #
