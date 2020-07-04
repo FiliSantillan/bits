@@ -1,6 +1,6 @@
 # Usos de console en navegadores
 
-> Código utilizado en los ejemplos: [console.js](/BitSnack/console/consoe.js)
+> Código utilizado en los ejemplos: [console.js](/BitSnack/console/console.js)
 
 ![console](/BitSnack/console/console-start.png)
 
@@ -25,8 +25,8 @@
 Instagram: [@fili.santillan](https://www.instagram.com/fili.santillan/)  
 Twitter: [@FiliSantillan](https://twitter.com/FiliSantillan)  
 Facebook: [Fili Santillán](https://www.facebook.com/FiliSantillan96/)  
-Sitio web: http://filisantillan.com  
+Sitio web: http://filisantillan.com
 
 ## 📚 Recursos
 
-- [Console API Reference](https://developers.google.com/web/tools/chrome-devtools/console/api)
+-   [Console API Reference](https://developers.google.com/web/tools/chrome-devtools/console/api)
