@@ -1,0 +1,22 @@
+.padre {
+    display: flex;
+    /* Propiedades ... */
+}
+
+/* flex-direction */
+flex-direction: [value];
+
+/* flex-wrap */
+flex-wrap: [value];
+
+/* justify-conten */
+justify-content: [value];
+
+/* align-items */
+align-items: [value];
+
+/* order */
+order: [value];
+
+/* align-self */
+align-self: [value];

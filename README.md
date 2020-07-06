@@ -26,7 +26,6 @@ Sitio web: http://filisantillan.com
 -   [BitCode](/BitCode/)
 
     -   CSS:
-
         -   [Scroll Snap](/BitCode/scroll-snap/scroll-snap.md)
 
     -   JavaScript:
@@ -45,8 +44,10 @@ Sitio web: http://filisantillan.com
 
 -   [BitSnack](/BitSnack/)
 
-    -   JavaScript:
+    - CSS:
+      - [Flexbox](/BitSnack/flexbox/flexbox.md)
 
+    -   JavaScript:
         -   [Destructuring](/BitSnack/Destructuring/destructuring.md)
         -   [ES2020](/BitSnack/ES2020/ES2020.md)
         -   [for...in](/BitSnack/for...in/for...in.md)
