@@ -2,23 +2,23 @@
 
 Flexbox está constituido por un padre (contenedor) y sus hijos (elementos).
 
-> Código utilizado en los ejemplos: [flexbox.css](/flexbox/flexbox.css)
+> Código utilizado en los ejemplos: [flexbox.css](/BitSnack/flexbox/flexbox.css)
 
-![Flexbox 01](/flexbox/flexbox-01.png)
+![Flexbox 01](/BitSnack/flexbox/flexbox-01.png)
 
-![Flexbox 02](/flexbox/flexbox-02.png)
+![Flexbox 02](/BitSnack/flexbox/flexbox-02.png)
 
-![Flexbox 03](/flexbox/flexbox-03.png)
+![Flexbox 03](/BitSnack/flexbox/flexbox-03.png)
 
-![Flexbox 04](/flexbox/flexbox-04.png)
+![Flexbox 04](/BitSnack/flexbox/flexbox-04.png)
 
-![Flexbox 05](/flexbox/flexbox-05.png)
+![Flexbox 05](/BitSnack/flexbox/flexbox-05.png)
 
-![Flexbox 06](/flexbox/flexbox-06.png)
+![Flexbox 06](/BitSnack/flexbox/flexbox-06.png)
 
-![Flexbox 07](/flexbox/flexbox-07.png)
+![Flexbox 07](/BitSnack/flexbox/flexbox-07.png)
 
-![Flexbox 08](/flexbox/flexbox-08.png)
+![Flexbox 08](/BitSnack/flexbox/flexbox-08.png)
 
 ## 🤓 Aprende algo nuevo hoy
 
