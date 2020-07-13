@@ -1,0 +1,65 @@
+.container {
+    display: grid;
+}
+
+/* grid-template-columns & rows */
+grid-template-columns: 40px 40px auto;
+grid-template-rows: 50% 50%;
+
+/* gap */
+column-gap: 10px;
+row-gap: 10px;
+
+/* justify-items & align-items */
+justify-items: [value];
+align-items: [value];
+
+/* justify-content & align-content */
+justify-content: [value];
+align-content: [value];
+
+/* column start & column end*/
+grid-column-start: 2;
+grid-column-end: 4;
+
+/* row start & row end*/
+grid-row-start: 1;
+grid-row-end: 3;
+
+/* justify-self & align-self */
+justify-self: [value];
+align-self: [value];
+
+/* areas */
+grid-area: [name];
+grid-template-areas: "areas";
+
+/* areas (example) */
+.container: {
+    display: grid;
+    grid-template-columns: 50px 50px 50px 50px 50px;
+    grid-template-rows: 50px 50px 50px;
+    grid-template-areas:
+        "header header header header header"
+        "main main main section section"
+        "footer footer footer footer footer";
+}
+
+.item-1 {
+    grid-area: header;
+}
+
+.item-2 {
+    grid-area: main;
+}
+
+.item-3 {
+    grid-area: section;
+}
+
+.item-4 {
+    grid-area: footer;
+}
+
+/* repeat() & fr */
+grid-template-columns: repeat(3, 1fr);

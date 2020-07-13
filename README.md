@@ -48,6 +48,7 @@ Sitio web: http://filisantillan.com
 
     -   CSS:
 
+        -   [CSS Grid Layout](/BitSnack/grid-layout/grid-layout.md)
         -   [Flexbox](/BitSnack/flexbox/flexbox.md)
 
     -   JavaScript:
