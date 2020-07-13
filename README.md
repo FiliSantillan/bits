@@ -26,6 +26,7 @@ Sitio web: http://filisantillan.com
 -   [BitCode](/BitCode/)
 
     -   CSS:
+
         -   [Scroll Snap](/BitCode/scroll-snap/scroll-snap.md)
 
     -   JavaScript:
@@ -37,6 +38,7 @@ Sitio web: http://filisantillan.com
         -   [for...of](/BitCode/for...of/for...of.md)
         -   [forEach](/BitCode/forEach/forEach.md)
         -   [globalThis](/BitCode/globalThis/globalThis.md)
+        -   [MutationObserver](/BitCode/mutationObserver/mutationObserver.md)
         -   [Promise.allSettled](/BitCode/Promise.allSettled/Promise.allSettled.md)
         -   [Rest VS. Arguments](/BitCode/RestVSArguments/RestVSArguments.md)
         -   [trim()](/BitCode/trim/trim.md)
@@ -44,8 +46,9 @@ Sitio web: http://filisantillan.com
 
 -   [BitSnack](/BitSnack/)
 
-    - CSS:
-      - [Flexbox](/BitSnack/flexbox/flexbox.md)
+    -   CSS:
+
+        -   [Flexbox](/BitSnack/flexbox/flexbox.md)
 
     -   JavaScript:
         -   [Destructuring](/BitSnack/Destructuring/destructuring.md)
