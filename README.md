@@ -6,11 +6,10 @@ Una colección de imágenes que explican diferentes conceptos entorno a desarrol
 
 Aquí encontraras la imagen o imágenes que componen un bit, el código que se uso, una breve descripción y los recurso que utilicé para su creación.
 
-Existen tres tipos de bits hasta el momento:
+Existen dos tipos de bits hasta el momento:
 
 1. **BitCode**: Fragmentos de código.
 2. **BitSnack**: Una serie de imágenes que explican un tema o tecnología.
-3. **BitStory**: Imágenes que cuentan el origen y transcurso de un tema o tecnología en concreto.
 
 ## 🤓 Aprende algo nuevo hoy
 
@@ -23,13 +22,13 @@ Sitio web: http://filisantillan.com
 
 ## ❤ Contenido
 
--   [BitCode](/BitCode/)
+-   ### [BitCode](/BitCode/)
 
-    -   CSS:
+    -   ### CSS
+        - [prefers-color-scheme](/BitCode/prefers-color-scheme/prefers-color-scheme.md)
+        - [Scroll Snap](/BitCode/scroll-snap/scroll-snap.md)
 
-        -   [Scroll Snap](/BitCode/scroll-snap/scroll-snap.md)
-
-    -   JavaScript:
+    -   ### JavaScript
         -   [BigInt](/BitCode/BigInt/BigInt.md)
         -   [Clipboard API](/BitCode/ClipboardApi/clipboardApi.md)
         -   [Destructuring](/BitCode/Destructuring/destructuring.md)
@@ -44,14 +43,14 @@ Sitio web: http://filisantillan.com
         -   [trim()](/BitCode/trim/trim.md)
         -   [Vibration API](/BitCode/vibration-api/vibration-api.md)
 
--   [BitSnack](/BitSnack/)
+-   ### [BitSnack](/BitSnack/)
 
-    -   CSS:
+    -   ### CSS
 
         -   [CSS Grid Layout](/BitSnack/grid-layout/grid-layout.md)
         -   [Flexbox](/BitSnack/flexbox/flexbox.md)
 
-    -   JavaScript:
+    -   ### JavaScript
         -   [Destructuring](/BitSnack/Destructuring/destructuring.md)
         -   [ES2020](/BitSnack/ES2020/ES2020.md)
         -   [for...in](/BitSnack/for...in/for...in.md)
@@ -63,7 +62,7 @@ Sitio web: http://filisantillan.com
         -   [var, let y const](/BitSnack/var-let-const/var-let-const.md)
 
 
-    -   Otros
+    -   ### Otros
         -   [Apps](/BitSnack/apps/apps.md)
         -   [Console](/BitSnack/console/console.md)
         -   [Ghost](/BitSnack/Ghost/Ghost.md)
