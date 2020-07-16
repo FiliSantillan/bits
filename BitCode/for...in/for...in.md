@@ -1,6 +1,6 @@
 # for...in
 
-`for...in` itera sobre todas las propiedades de un objeto. Es decir, que por cada elemento se aplicara la sentencia especificada.
+`for...in` itera sobre todas las propiedades de un objeto. Es decir, que por cada elemento se aplicará la sentencia especificada.
 
 > Código utilizado en los ejemplos: [for...in.js](/BitCode/for...in/for...in.js)
 
