@@ -4,7 +4,7 @@ BigInt es un objeto incorporado que nos da JavaScript para representar un númer
 
 > Código utilizado en los ejemplos: [BigInt.js](./BigInt.js)
 
-Bit completo en:[filisantillan.com](https://filisantillan.com/bits/bigint/)
+Bit completo en: [filisantillan.com](https://filisantillan.com/bits/bigint/)
 
 ![BigInt](./BigInt.png)
 
