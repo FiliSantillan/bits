@@ -4,7 +4,7 @@ El método `Promise.allSettled()` devuelve una promesa que es resuelta después 
 
 > Código utilizado en los ejemplos: [Promise.allSettled()](./../Promise.allSettled/Promise.allSettled.js)
 
-Bit completo en:[filisantillan.com](https://filisantillan.com/bits/promise-allsettled/)
+Bit completo en: [filisantillan.com](https://filisantillan.com/bits/promise-allsettled/)
 
 ![Promise.allSettled](./../Promise.allSettled/promise.allSettled.png)
 
