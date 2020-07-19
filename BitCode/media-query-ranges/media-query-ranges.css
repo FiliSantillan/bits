@@ -1,0 +1,8 @@
+@media (width >= 375px) {
+}
+
+@media (375px <= width <= 768px) {
+}
+
+@media (width <= 768px) {
+}

@@ -25,6 +25,7 @@ Sitio web: http://filisantillan.com
 -   ### [BitCode](/BitCode/)
 
     -   ### CSS
+        - [Media Query Ranges](/BitCode/media-query-ranges/media-query-ranges.md)
         - [prefers-color-scheme](/BitCode/prefers-color-scheme/prefers-color-scheme.md)
         - [Scroll Snap](/BitCode/scroll-snap/scroll-snap.md)
 
@@ -47,8 +48,8 @@ Sitio web: http://filisantillan.com
 
     -   ### CSS
 
-        -   [CSS Grid Layout](/BitSnack/grid-layout/grid-layout.md)
         -   [Flexbox](/BitSnack/flexbox/flexbox.md)
+        -   [Grid Layout](/BitSnack/grid-layout/grid-layout.md)
 
     -   ### JavaScript
         -   [Destructuring](/BitSnack/Destructuring/destructuring.md)
