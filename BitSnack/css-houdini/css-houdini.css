@@ -1,0 +1,59 @@
+/* Primer Demo */
+
+.el span {
+    box-decoration-break: clone;
+    background: hsl(276, 100%, 50%);
+}
+
+@supports (background: paint(slanted-bg)) {
+    .el.is-loaded span {
+        padding-right: 30px;
+        background: paint(slanted-bg);
+    }
+}
+
+/* Segundo demo */
+
+.el {
+    background: var(--rough-fill);
+    border: var(--rough-stroke-width) solid var(--rough-stroke);
+    --rough-fill: #0081ff;
+    --rough-stroke: black;
+    --rough-stroke-width: 4px;
+    --rough-roughness: 7;
+}
+
+.el:nth-child(2) {
+    --rough-fill: #8100ff;
+}
+
+@supports (border-image-source: paint(rough-boxes)) {
+    .is-loaded .el {
+        border-image-source: paint(rough-boxes);
+        border-image-slice: 0 fill;
+        border-image-outset: 10px;
+        background: none;
+    }
+}
+
+/* Tercer demo */
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    gap: 3px;
+    --irregular-grid-x: 10;
+    --irregular-grid-y: 10;
+}
+.item {
+    height: 200px;
+    overflow: hidden;
+}
+@supports (mask-border-source: paint(irregular-grid)) {
+    .is-loaded .item {
+        overflow: visible;
+        --border-width: 20;
+        mask-border-source: paint(irregular-grid);
+        mask-border-outset: calc(1px * var(--border-width));
+    }
+}

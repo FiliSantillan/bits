@@ -48,6 +48,7 @@ Sitio web: http://filisantillan.com
 
     -   ### CSS
 
+        -   [CSS Houdini](/BitSnack/css-houdini/css-houdini.md)
         -   [Flexbox](/BitSnack/flexbox/flexbox.md)
         -   [Grid Layout](/BitSnack/grid-layout/grid-layout.md)
 
