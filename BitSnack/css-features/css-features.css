@@ -1,0 +1,50 @@
+/* CSS Mask */
+
+.element {
+    width: 100vw;
+    height: 100vh;
+
+    background-image: url(./assets/gravity-falls-bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+
+    -webkit-mask-image: url(./assets/gravity-falls.png);
+    -webkit-mask-size: 500px;
+    -webkit-mask-repeat: no-repeat;
+    -webkit-mask-position: center;
+}
+
+/* text-stroke */
+
+h2 {
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: #ee3d64;
+}
+
+/* conic-gradinet */
+
+.circle {
+    width: 300px;
+    height: 300px;
+    margin: 10rem auto;
+    border-radius: 50%;
+    background: conic-gradient(#ffd166, #ee3d64, #00a8e8, #06d6a0);
+}
+
+/* filter */
+
+img {
+    filter: invert(100%);
+}
+
+/* background-blend-mode */
+
+.image {
+    width: 800px;
+    height: 600px;
+    background-image: url(./image.jpg);
+    background-position: center;
+    background-size: cover;
+    background-color: #ee3d64;
+    background-blend-mode: difference;
+}
