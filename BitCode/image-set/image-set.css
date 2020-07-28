@@ -1,0 +1,5 @@
+/* image-set */
+
+.image {
+    background-image: image-set(url("./images/image.jpg") 1x, url("./images/image@2x.jpg") 2x);
+}
