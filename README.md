@@ -69,6 +69,7 @@ Sitio web: http://filisantillan.com
         -   [Apps](/BitSnack/apps/apps.md)
         -   [Console](/BitSnack/console/console.md)
         -   [Ghost](/BitSnack/Ghost/Ghost.md)
+        -   [Comandos básicos para git](/BitSnack/git-commands/git-commands.md)
         -   [VSCode extensiones](/BitSnack/vscode-extensions/VSCode-extensions.md)
         -   [VSCode temas](/BitSnack/vscode-theme/vscode-themes.md)
 
