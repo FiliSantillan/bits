@@ -1,4 +1,4 @@
-a# BITS
+# BITS
 
 ¡Hola!, bienvenido a **bits**.
 

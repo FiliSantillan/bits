@@ -7,6 +7,7 @@
 Bit completo en:[filisantillan.com](https://filisantillan.com/bits/mutationobserver/)
 
 ![mutationObserver](./mutationObserver.png)
+
 ## 🤓 Aprende algo nuevo hoy
 
 > Comparto los **bits** al menos una vez por semana.
