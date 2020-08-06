@@ -1,4 +1,4 @@
-# BITS
+a# BITS
 
 ¡Hola!, bienvenido a **bits**.
 
@@ -67,7 +67,6 @@ Sitio web: http://filisantillan.com
         -   [Object.values()](/BitSnack/Object.values/Object.values.md)
         -   [var, let y const](/BitSnack/var-let-const/var-let-const.md)
 
-
     -   ### Otros
         -   [Apps](/BitSnack/apps/apps.md)
         -   [Console](/BitSnack/console/console.md)
@@ -75,6 +74,12 @@ Sitio web: http://filisantillan.com
         -   [Comandos básicos para git](/BitSnack/git-commands/git-commands.md)
         -   [VSCode extensiones](/BitSnack/vscode-extensions/VSCode-extensions.md)
         -   [VSCode temas](/BitSnack/vscode-theme/vscode-themes.md)
+
+-   ### [BitQuiz](/BitQuiz/)
+
+    -   ### JavaScript
+
+        -   [Quiz 01](/BitQuiz/js-quiz-01/js-quiz-01.md)
 
 ## ✨ Comparte
 
@@ -90,6 +95,7 @@ En cada **Bit** vas a ver los recursos que utilize para la creación del mismo. 
 
 -   [Samantha Ming](https://www.instagram.com/samanthaming/): Aunque ya compartía este contenido desde hace tiempo en mis redes sociales, sus **tidbits** fueron de gran inspiración para darles forma a mis bits.
 -   Las portadas y finales usan iconos de Freepik: https://www.flaticon.es/autores/freepik
+-   Los BitQuiz están inspirados en los ¡Quiz! de [teffcode](https://gist.github.com/teffcode)
 
 ## 📜 Licencia
 
