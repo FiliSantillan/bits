@@ -16,9 +16,9 @@ Una lista de libros recomendados por diferentes personas sobre desarrollo y dise
 
 > Comparto los **bits** al menos una vez por semana.
 
-Instagram: [@fili.santillan](https://www.instagram.com/fili.santillan/)
-Twitter: [@FiliSantillan](https://twitter.com/FiliSantillan)
-Facebook: [Fili Santillán](https://www.facebook.com/FiliSantillan96/)
+Instagram: [@fili.santillan](https://www.instagram.com/fili.santillan/)  
+Twitter: [@FiliSantillan](https://twitter.com/FiliSantillan)  
+Facebook: [Fili Santillán](https://www.facebook.com/FiliSantillan96/)  
 Sitio web: http://filisantillan.com
 
 ## 📚 Recursos

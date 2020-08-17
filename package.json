@@ -1,0 +1,23 @@
+{
+  "name": "bits",
+  "version": "1.0.0",
+  "description": "¡Hola!, bienvenido a **bits**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FiliSantillan/Bits.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FiliSantillan/Bits/issues"
+  },
+  "homepage": "https://github.com/FiliSantillan/Bits#readme",
+  "devDependencies": {
+    "eslint": "^7.7.0"
+  }
+}

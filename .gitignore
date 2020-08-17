@@ -45,9 +45,13 @@ dist/
 ######################
 # OTHERS #
 ######################
-Templates/
-VSCode-Themes/
-Quiz/
+old-bits/
+branch-kit/
+vscode-themes/
+storyQuiz/
+IGTV/
+bit-templates/
+bitQues/
 *.psd
 *-code*.png
 *@2x.png
@@ -64,6 +68,7 @@ node_modules
 .jshintrc
 .babelrc
 *.log
+package-lock.json
 
 ######################
 # VSSettings #

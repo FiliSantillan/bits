@@ -1,4 +1,4 @@
-# `includes()`
+# `includes()+
 
 El método `includes()` determina si un array incluye un determinado elemento y devuelve `true` o `false` dependiendo si se encuentra o no.
 
