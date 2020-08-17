@@ -45,6 +45,7 @@ Sitio web: http://filisantillan.com
     - [Promise.allSettled](/BitCode/Promise.allSettled/Promise.allSettled.md)
     - [Rest VS. Arguments](/BitCode/RestVSArguments/RestVSArguments.md)
     - [trim()](/BitCode/trim/trim.md)
+    - [var, let y const](./bitCode/var-let-const/var-let-const.md)
     - [Vibration API](/BitCode/vibration-api/vibration-api.md)
 
 - ### [BitSnack](/BitSnack/)
