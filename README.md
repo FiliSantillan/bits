@@ -58,7 +58,8 @@ Sitio web: http://filisantillan.com
     - [Grid Layout](/BitSnack/grid-layout/grid-layout.md)
 
   - ### JavaScript
-
+  
+    - [De jQuery a JavaScript](/bitSnack/jquery-js/jquery-js.md)
     - [Destructuring](/BitSnack/Destructuring/destructuring.md)
     - [ES2020](/BitSnack/ES2020/ES2020.md)
     - [for...in](/BitSnack/for...in/for...in.md)
