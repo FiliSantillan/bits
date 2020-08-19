@@ -30,6 +30,7 @@ http://filisantillan.com
 
   - ### CSS
 
+    - [child selector](BitCode/child-selector/child-selector.md)
     - [image-set](BitCode/image-set/image-set.md)
     - [Media Query Ranges](/BitCode/media-query-ranges/media-query-ranges.md)
     - [prefers-color-scheme](/BitCode/prefers-color-scheme/prefers-color-scheme.md)
