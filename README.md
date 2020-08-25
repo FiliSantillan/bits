@@ -26,70 +26,74 @@ http://filisantillan.com
 
 ## ❤ Contenido
 
-- ### [BitCode](/BitCode/)
+-   ### [BitCode](/BitCode/)
 
-  - ### CSS
+    -   ### CSS
 
-    - [child selector](BitCode/child-selector/child-selector.md)
-    - [image-set](BitCode/image-set/image-set.md)
-    - [Media Query Ranges](/BitCode/media-query-ranges/media-query-ranges.md)
-    - [prefers-color-scheme](/BitCode/prefers-color-scheme/prefers-color-scheme.md)
-    - [Scroll Snap](/BitCode/scroll-snap/scroll-snap.md)
+        -   [child selector](BitCode/child-selector/child-selector.md)
+        -   [image-set](BitCode/image-set/image-set.md)
+        -   [Media Query Ranges](/BitCode/media-query-ranges/media-query-ranges.md)
+        -   [prefers-color-scheme](/BitCode/prefers-color-scheme/prefers-color-scheme.md)
+        -   [Scroll Snap](/BitCode/scroll-snap/scroll-snap.md)
 
-  - ### JavaScript
-    - [BigInt](/BitCode/BigInt/BigInt.md)
-    - [Clipboard API](/BitCode/ClipboardApi/clipboardApi.md)
-    - [Destructuring](/BitCode/Destructuring/destructuring.md)
-    - [Dynamic import](/BitCode/DynamicImport/dynamic-import.md)
-    - [for...in](/BitCode/for...in/for...in.md)
-    - [for...of](/BitCode/for...of/for...of.md)
-    - [forEach](/BitCode/forEach/forEach.md)
-    - [globalThis](/BitCode/globalThis/globalThis.md)
-    - [includes](/BitCode/includes/includes.md)
-    - [MutationObserver](/BitCode/mutationObserver/mutationObserver.md)
-    - [Promise.allSettled](/BitCode/Promise.allSettled/Promise.allSettled.md)
-    - [Rest VS. Arguments](/BitCode/RestVSArguments/RestVSArguments.md)
-    - [trim()](/BitCode/trim/trim.md)
-    - [var, let y const](./BitCode/var-let-const/var-let-const.md)
-    - [Vibration API](/BitCode/vibration-api/vibration-api.md)
+    -   ### JavaScript
+        -   [BigInt](/BitCode/BigInt/BigInt.md)
+        -   [Clipboard API](/BitCode/ClipboardApi/clipboardApi.md)
+        -   [Destructuring](/BitCode/Destructuring/destructuring.md)
+        -   [Dynamic import](/BitCode/DynamicImport/dynamic-import.md)
+        -   [for...in](/BitCode/for...in/for...in.md)
+        -   [for...of](/BitCode/for...of/for...of.md)
+        -   [forEach](/BitCode/forEach/forEach.md)
+        -   [globalThis](/BitCode/globalThis/globalThis.md)
+        -   [includes](/BitCode/includes/includes.md)
+        -   [MutationObserver](/BitCode/mutationObserver/mutationObserver.md)
+        -   [Promise.allSettled](/BitCode/Promise.allSettled/Promise.allSettled.md)
+        -   [Rest VS. Arguments](/BitCode/RestVSArguments/RestVSArguments.md)
+        -   [trim()](/BitCode/trim/trim.md)
+        -   [var, let y const](./BitCode/var-let-const/var-let-const.md)
+        -   [Vibration API](/BitCode/vibration-api/vibration-api.md)
 
-- ### [BitSnack](/BitSnack/)
+-   ### [BitSnack](/BitSnack/)
 
-  - ### CSS
+    -   ### CSS
 
-    - [5 Características de CSS](/BitSnack/css-features/css-features.md)
-    - [CSS Houdini](/BitSnack/css-houdini/css-houdini.md)
-    - [Flexbox](/BitSnack/flexbox/flexbox.md)
-    - [Grid Layout](/BitSnack/grid-layout/grid-layout.md)
+        -   [5 Características de CSS](/BitSnack/css-features/css-features.md)
+        -   [CSS Houdini](/BitSnack/css-houdini/css-houdini.md)
+        -   [Flexbox](/BitSnack/flexbox/flexbox.md)
+        -   [Grid Layout](/BitSnack/grid-layout/grid-layout.md)
 
-  - ### JavaScript
+    -   ### JavaScript
 
-    - [De jQuery a JavaScript](/BitSnack/jquery-js/jquery-js.md)
-    - [Destructuring](/BitSnack/Destructuring/destructuring.md)
-    - [ES2020](/BitSnack/ES2020/ES2020.md)
-    - [for...in](/BitSnack/for...in/for...in.md)
-    - [for...of](/BitSnack/for...of/for...of.md)
-    - [forEach](/BitSnack/forEach/forEach.md)
-    - [includes()](/BitSnack/includes/includes.md)
-    - [Object.entries()](/BitSnack/Object.entries/Object.entries.md)
-    - [Object.values()](/BitSnack/Object.values/Object.values.md)
-    - [var, let y const](/BitSnack/var-let-const/var-let-const.md)
+        -   [De jQuery a JavaScript](/BitSnack/jquery-js/jquery-js.md)
+        -   [Destructuring](/BitSnack/Destructuring/destructuring.md)
+        -   [ES2020](/BitSnack/ES2020/ES2020.md)
+        -   [for...in](/BitSnack/for...in/for...in.md)
+        -   [for...of](/BitSnack/for...of/for...of.md)
+        -   [forEach](/BitSnack/forEach/forEach.md)
+        -   [includes()](/BitSnack/includes/includes.md)
+        -   [Object.entries()](/BitSnack/Object.entries/Object.entries.md)
+        -   [Object.values()](/BitSnack/Object.values/Object.values.md)
+        -   [var, let y const](/BitSnack/var-let-const/var-let-const.md)
 
-  - ### Otros
+    -   ### React
 
-    - [Apps](/BitSnack/apps/apps.md)
-    - [Comandos básicos para git](/BitSnack/git-commands/git-commands.md)
-    - [Console](/BitSnack/console/console.md)
-    - [Ghost](/BitSnack/Ghost/Ghost.md)
-    - [Libros que debes de conocer](/BitSnack/books/books.md)
-    - [VSCode (extensiones)](/BitSnack/vscode-extensions/VSCode-extensions.md)
-    - [VSCode (temas)](/BitSnack/vscode-theme/vscode-themes.md)
+        -   [Qué es y cómo funciona React](/BitSnack/react/react.md)
 
-- ### [BitQuiz](/BitQuiz/)
+    -   ### Otros
 
-  - ### JavaScript
+        -   [Apps](/BitSnack/apps/apps.md)
+        -   [Comandos básicos para git](/BitSnack/git-commands/git-commands.md)
+        -   [Console](/BitSnack/console/console.md)
+        -   [Ghost](/BitSnack/Ghost/Ghost.md)
+        -   [Libros que debes de conocer](/BitSnack/books/books.md)
+        -   [VSCode (extensiones)](/BitSnack/vscode-extensions/VSCode-extensions.md)
+        -   [VSCode (temas)](/BitSnack/vscode-theme/vscode-themes.md)
 
-    - [Quiz 01](/BitQuiz/js-quiz-01/js-quiz-01.md)
+-   ### [BitQuiz](/BitQuiz/)
+
+    -   ### JavaScript
+
+        -   [Quiz 01](/BitQuiz/js-quiz-01/js-quiz-01.md)
 
 ## ✨ Comparte
 
@@ -111,13 +115,13 @@ En cada **Bit** vas a ver los recursos que utilize para la creación del mismo.
 Aunque quisiera hacer algunas menciones generales que me ayudaron a lograr este
 tipo de contenido.
 
-- [Samantha Ming](https://www.instagram.com/samanthaming/): Aunque ya compartía
-  este contenido desde hace tiempo en mis redes sociales, sus **tidbits** fueron
-  de gran inspiración para darles forma a mis bits.
-- Las portadas y finales usan iconos de Freepik:
-  https://www.flaticon.es/autores/freepik
-- Los BitQuiz están inspirados en los ¡Quiz! de
-  [teffcode](https://gist.github.com/teffcode)
+-   [Samantha Ming](https://www.instagram.com/samanthaming/): Aunque ya
+    compartía este contenido desde hace tiempo en mis redes sociales, sus
+    **tidbits** fueron de gran inspiración para darles forma a mis bits.
+-   Las portadas y finales usan iconos de Freepik:
+    https://www.flaticon.es/autores/freepik
+-   Los BitQuiz están inspirados en los ¡Quiz! de
+    [teffcode](https://gist.github.com/teffcode)
 
 ## 📜 Licencia
 
