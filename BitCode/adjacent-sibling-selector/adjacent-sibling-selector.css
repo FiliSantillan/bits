@@ -1,0 +1,10 @@
+h1 + p {
+    background-color: yellow;
+    color: black;
+}
+
+/* ejemplo */
+img + div {
+    background-color: yellow;
+    color: black;
+}

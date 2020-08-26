@@ -34,6 +34,7 @@ http://filisantillan.com
         -   [image-set](BitCode/image-set/image-set.md)
         -   [Media Query Ranges](/BitCode/media-query-ranges/media-query-ranges.md)
         -   [prefers-color-scheme](/BitCode/prefers-color-scheme/prefers-color-scheme.md)
+        -   [selector de hermanos adyacentes](/BitCode/adjacent-sibling-selector/adjacent-sibling-selector.md)
         -   [Scroll Snap](/BitCode/scroll-snap/scroll-snap.md)
 
     -   ### JavaScript
