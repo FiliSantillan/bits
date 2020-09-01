@@ -82,6 +82,7 @@ http://filisantillan.com
 
     -   ### Otros
 
+        -   [8 Fuentes para programar](/BitSnack/fonts/fonts.md)
         -   [Apps](/BitSnack/apps/apps.md)
         -   [Comandos básicos para git](/BitSnack/git-commands/git-commands.md)
         -   [Console](/BitSnack/console/console.md)
