@@ -19,10 +19,10 @@ Existen dos tipos de bits hasta el momento:
 
 > Comparto los **bits** al menos una vez por semana.
 
-Instagram: [@fili.santillan](https://www.instagram.com/fili.santillan/) Twitter:
-[@FiliSantillan](https://twitter.com/FiliSantillan) Facebook:
-[Fili Santillán](https://www.facebook.com/FiliSantillan96/) Sitio web:
-http://filisantillan.com
+Instagram: [@fili.santillan](https://www.instagram.com/fili.santillan/)  
+Twitter: [@FiliSantillan](https://twitter.com/FiliSantillan)  
+Facebook: [Fili Santillán](https://www.facebook.com/FiliSantillan96/)  
+Sitio web: http://filisantillan.com
 
 ## ❤ Contenido
 
@@ -35,6 +35,7 @@ http://filisantillan.com
         -   [Media Query Ranges](/BitCode/media-query-ranges/media-query-ranges.md)
         -   [prefers-color-scheme](/BitCode/prefers-color-scheme/prefers-color-scheme.md)
         -   [selector de hermanos adyacentes](/BitCode/adjacent-sibling-selector/adjacent-sibling-selector.md)
+        -   [selector de hermanos generales](/BitCode/general-sibling-selector/general-sibling-selector.md)
         -   [Scroll Snap](/BitCode/scroll-snap/scroll-snap.md)
 
     -   ### JavaScript

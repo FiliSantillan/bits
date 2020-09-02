@@ -1,0 +1,11 @@
+h1 ~ h2 {
+    background-color: yellow;
+    color: black;
+}
+
+/* Ejemplo */
+
+h1 ~ p {
+    background-color: yellow;
+    color: black;
+}
