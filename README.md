@@ -80,6 +80,7 @@ Sitio web: http://filisantillan.com
     -   ### React
 
         -   [Qué es y cómo funciona React](/BitSnack/react/react.md)
+        -   [React Hooks](/BitSnack/react-hooks/react-hooks.md)
 
     -   ### Otros
 
