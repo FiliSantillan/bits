@@ -48,6 +48,7 @@ Sitio web: http://filisantillan.com
         -   [forEach](/BitCode/forEach/forEach.md)
         -   [globalThis](/BitCode/globalThis/globalThis.md)
         -   [includes](/BitCode/includes/includes.md)
+        -   [map](/BitCode/map/map.md)
         -   [MutationObserver](/BitCode/mutationObserver/mutationObserver.md)
         -   [Promise.allSettled](/BitCode/Promise.allSettled/Promise.allSettled.md)
         -   [Rest VS. Arguments](/BitCode/RestVSArguments/RestVSArguments.md)
