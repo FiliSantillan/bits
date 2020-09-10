@@ -22,4 +22,4 @@ Sitio web: http://filisantillan.com
 
 ## 📚 Recursos
 
-- [MDN Child combinator](https://developer.mozilla.org/en-US/docs/Web/CSS/Child_combinator)
+-   [MDN Child combinator](https://developer.mozilla.org/en-US/docs/Web/CSS/Child_combinator)
