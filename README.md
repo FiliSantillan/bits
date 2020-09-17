@@ -68,7 +68,7 @@ Sitio web: http://filisantillan.com
 
     -   ### JavaScript
 
-        -   [Formas de clonar arrays](/BitSnack/clone-arrays/clone-clone-arrays.md)
+        -   [Formas de clonar arrays](/BitSnack/clone-arrays/clone-arrays.md)
         -   [De jQuery a JavaScript](/BitSnack/jquery-js/jquery-js.md)
         -   [Destructuring](/BitSnack/Destructuring/destructuring.md)
         -   [ES2020](/BitSnack/ES2020/ES2020.md)

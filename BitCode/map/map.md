@@ -5,7 +5,7 @@ tendrá los cambios aplicados por la función definida (callback).
 
 Bit completo en: [filisantillan.com](https://filisantillan.com/bits/map/)
 
-![Selector de hermanos generales](./map.png)
+![map javascript](./map.png)
 
 > Código utilizado en los ejemplos: [map.js](./map.js)
 
