@@ -43,6 +43,7 @@ Sitio web: http://filisantillan.com
         -   [Clipboard API](/BitCode/ClipboardApi/clipboardApi.md)
         -   [Destructuring](/BitCode/Destructuring/destructuring.md)
         -   [Dynamic import](/BitCode/DynamicImport/dynamic-import.md)
+        -   [filter](/BitCode/filter/filter.md)
         -   [for...in](/BitCode/for...in/for...in.md)
         -   [for...of](/BitCode/for...of/for...of.md)
         -   [forEach](/BitCode/forEach/forEach.md)
