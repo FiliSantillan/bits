@@ -103,6 +103,9 @@ Sitio web: http://filisantillan.com
 
         -   [Quiz 01](/BitQuiz/js-quiz-01/js-quiz-01.md)
 
+    -   ### CSS
+        -   [Quiz 01](/BitQuiz/css-quiz-01/css-quiz.md)
+
 ## ✨ Comparte
 
 Eres bienvenido a descargar y compartir mis bits. Sería increíble llegar a más

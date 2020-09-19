@@ -1,0 +1,20 @@
+/* Respuesta A */
+
+.container + span {
+    background: purple;
+    color: black;
+}
+
+/* Respuesta B */
+
+.container ~ span {
+    background: purple;
+    color: black;
+}
+
+/* Respuesta C */
+
+.container > span {
+    background: purple;
+    color: black;
+}
