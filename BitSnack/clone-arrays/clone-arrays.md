@@ -21,7 +21,7 @@ Diferentes métodos para clonar arrays superficiales y profundos.
 ![clone-array-09](./clone-array-09.png)
 
 > Código utilizado en los ejemplos:
-> [react-hooks.js](/BitSnack/react-hooks/react-hooks.js)
+> [clone-arrays.js](/BitSnack/clone-arrays/clone-arrays.js)
 
 ## 🤓 Aprende algo nuevo hoy
 

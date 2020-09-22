@@ -55,25 +55,25 @@ console.log(original); // [1, 2, 3]
 
 // deep array ---------------------------------------
 
-let original = [1, 2, 3, [[4], [5]]];
+let original = [1, 2, 3, [4, 5]];
 let clone = [...original];
 
 clone[0] = "🔥";
 clone[3][0] = "✨";
 
-console.log(clone); // ["🔥", 2, 3, [["✨"], [5]]];
-console.log(original); // [1, 2, 3, [["✨"], [5]]];
+console.log(clone); // ["🔥", 2, 3, ["✨", 5]];
+console.log(original); // [1, 2, 3, ["✨", 5]];
 
 // copy deep array ----------------------------------
 
-let original = [1, 2, 3, [[4], [5]]];
+let original = [1, 2, 3, [4, 5]];
 let clone = JSON.parse(JSON.stringify(original));
 
 clone[0] = "🔥";
 clone[3][0] = "✨";
 
-console.log(clone); // ["🔥", 2, 3, [["✨"], [5]]];
-console.log(original); // [1, 2, 3, [["4"], [5]]];
+console.log(clone); // ["🔥", 2, 3, ["✨", 5]];
+console.log(original); // [1, 2, 3, [4, 5]];
 
 // copy deep array (function) -----------------------
 
@@ -83,11 +83,11 @@ function cloneArray(array) {
     });
 }
 
-let original = [1, 2, 3, [[4], [5]]];
+let original = [1, 2, 3, [4, 5]];
 let clone = cloneArray(original);
 
 clone[0] = "🔥";
 clone[3][0] = "✨";
 
-console.log(clone); // ["🔥", 2, 3, [["✨"], [5]]];
-console.log(original); // [1, 2, 3, [["4"], [5]]];
+console.log(clone); // ["🔥", 2, 3, ["✨", 5]];
+console.log(original); // [1, 2, 3, [4, 5]];
