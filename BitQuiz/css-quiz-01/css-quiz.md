@@ -1,6 +1,6 @@
 # ¿QUÉ SELECTOR DE CSS ES EL CORRECTO?
 
-El sector que te permita aplicar el color de fondo a los siguientes elementos.
+¿Qué sector que te permite aplicar el color de fondo a los siguientes elementos?
 
 > Código utilizado en los ejemplos: [problem.css](./problem.css)
 

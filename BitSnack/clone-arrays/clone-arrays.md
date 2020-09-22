@@ -35,6 +35,6 @@ Sitio web: http://filisantillan.com
 ## 📚 Recursos
 
 -   [ES6 Way to Clone an Array 🐑 ](https://www.samanthaming.com/tidbits/35-es6-way-to-clone-an-array/)
--   [How to Deep Clone an Array](https://www.samanthaming.com/tidbits/50-how-to-deep-clone-an-array/#shallow-vs-deep-clone)
+-   [How to Deep Clone an Array](https://www.samanthaming.com/tidbits/50-how-to-deep-clone-an-array/)
 -   [How to Deep Copy Objects and Arrays in JavaScript](https://medium.com/javascript-in-plain-english/how-to-deep-copy-objects-and-arrays-in-javascript-7c911359b089)
 -   [Fastest way to duplicate an array in JavaScript - slice vs. 'for' loop](https://stackoverflow.com/questions/3978492/fastest-way-to-duplicate-an-array-in-javascript-slice-vs-for-loop)
