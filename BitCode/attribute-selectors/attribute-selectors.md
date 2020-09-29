@@ -9,7 +9,7 @@ Bit completo en:
 ![Selectores de atributo](./attribute-selectors.png)
 
 > Código utilizado en los ejemplos:
-> [attribute-selectors.css](./attribute-selectors.js)
+> [attribute-selectors.css](./attribute-selectors.css)
 
 ## 🤓 Aprende algo nuevo hoy
 
