@@ -1,0 +1,27 @@
+[title] {
+    color: aquamarine;
+}
+
+h1[title="hello"] {
+    color: blueviolet;
+}
+
+h1[title~="hello"] {
+    color: cadetblue;
+}
+
+button[class|="btn"] {
+    background: coral;
+}
+
+a[href^="#"] {
+    color: crimson;
+}
+
+img[src$=".png"] {
+    border: 3px solid hotpink;
+}
+
+h1[class*="title"] {
+    color: dodgerblue;
+}

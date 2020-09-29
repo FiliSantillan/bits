@@ -30,12 +30,13 @@ Sitio web: http://filisantillan.com
 
     -   ### CSS
 
-        -   [child selector](BitCode/child-selector/child-selector.md)
+        -   [Child selector](BitCode/child-selector/child-selector.md)
         -   [image-set](BitCode/image-set/image-set.md)
         -   [Media Query Ranges](/BitCode/media-query-ranges/media-query-ranges.md)
         -   [prefers-color-scheme](/BitCode/prefers-color-scheme/prefers-color-scheme.md)
-        -   [selector de hermanos adyacentes](/BitCode/adjacent-sibling-selector/adjacent-sibling-selector.md)
-        -   [selector de hermanos generales](/BitCode/general-sibling-selector/general-sibling-selector.md)
+        -   [Selector de hermanos adyacentes](/BitCode/adjacent-sibling-selector/adjacent-sibling-selector.md)
+        -   [Selector de hermanos generales](/BitCode/general-sibling-selector/general-sibling-selector.md)
+        -   [Selectores de atributo](/BitCode/attribute-selectors/attribute-selectors.md)
         -   [Scroll Snap](/BitCode/scroll-snap/scroll-snap.md)
 
     -   ### JavaScript
