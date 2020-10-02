@@ -53,6 +53,7 @@ Sitio web: http://filisantillan.com
         -   [map](/BitCode/map/map.md)
         -   [MutationObserver](/BitCode/mutationObserver/mutationObserver.md)
         -   [Promise.allSettled](/BitCode/Promise.allSettled/Promise.allSettled.md)
+        -   [reduce](/BitCode/reduce/reduce.md)
         -   [Rest VS. Arguments](/BitCode/RestVSArguments/RestVSArguments.md)
         -   [trim()](/BitCode/trim/trim.md)
         -   [var, let y const](./BitCode/var-let-const/var-let-const.md)
