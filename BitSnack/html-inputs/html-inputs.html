@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta content="width=device-width, initial-scale=1.0" name="viewport">
+        <title>Document</title>
+
+        <style>
+            body {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                width: 100%;
+                height: 100vh;
+                flex-wrap: wrap;
+            }
+
+            input {
+                display: block;
+                margin: 5rem;
+            }
+
+        </style>
+    </head>
+    <body>
+        <form action="">
+            <input max="2020-12-31"
+                   min="2020-01-01"
+                   type="date"
+                   value="2020-06-04">
+
+            <input max="2020-12"
+                   min="2020-01"
+                   type="month"
+                   value="2020-04">
+
+            <input max="2020-W20"
+                   min="2020-W10"
+                   type="week"
+                   value="2020-W18">
+
+            <input max="18:00"
+                   min="09:00"
+                   type="time"
+                   value="14:00">
+
+            <input pattern="https://.*" size="30" type="url">
+
+            <input pattern="[0-9]{2}-[0-9]{2}-[0-9]{2}-[0-9]{2}-[0-9]{2}"
+                   type="tel">
+
+            <input max="100" min="0" step="10"
+                   type="range" value="50">
+
+            <input type="color" value="#5bc0eb">
+
+            <input type="submit" value="Enviar">
+        </form>
+
+    </body>
+</html>

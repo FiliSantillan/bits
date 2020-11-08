@@ -62,6 +62,7 @@ videos/
 *-in.png
 *-ss.png
 *-post.png
+shot*.png
 
 ######################
 # NodeJS / JS #

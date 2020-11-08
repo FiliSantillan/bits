@@ -98,6 +98,7 @@ Sitio web: http://filisantillan.com
         -   [Console](/BitSnack/console/console.md)
         -   [Ghost](/BitSnack/Ghost/Ghost.md)
         -   [Libros que debes de conocer](/BitSnack/books/books.md)
+        -   [Tipos de input en HTML](/BitSnack/html-inputs/html-input.md)
         -   [VSCode (extensiones)](/BitSnack/vscode-extensions/VSCode-extensions.md)
         -   [VSCode (temas)](/BitSnack/vscode-theme/vscode-themes.md)
 
