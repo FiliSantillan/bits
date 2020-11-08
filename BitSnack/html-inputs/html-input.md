@@ -18,6 +18,8 @@
 
 ![html-inputs-09](./html-inputs-09.png)
 
+> Código utilizado en los ejemplos: [html-inputs.html](/BitSnack/html-inputs/html-input.md)
+
 ## 🤓 Aprende algo nuevo hoy
 
 > Comparto los **bits** al menos una vez por semana.
