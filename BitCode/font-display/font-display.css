@@ -1,0 +1,5 @@
+@font-face {
+    font-family: "Font";
+    src: url("./font.woff2") format("woff2"), url("./font.woff") format("woff");
+    font-display: auto;
+}

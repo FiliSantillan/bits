@@ -31,6 +31,7 @@ Sitio web: http://filisantillan.com
     -   ### CSS
 
         -   [Child selector](BitCode/child-selector/child-selector.md)
+        -   [font-display](/BitCode/font-display/font-display.md)
         -   [image-set](BitCode/image-set/image-set.md)
         -   [Media Query Ranges](/BitCode/media-query-ranges/media-query-ranges.md)
         -   [prefers-color-scheme](/BitCode/prefers-color-scheme/prefers-color-scheme.md)
