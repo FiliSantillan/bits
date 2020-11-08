@@ -94,6 +94,7 @@ Sitio web: http://filisantillan.com
         -   [8 fuentes para programar](/BitSnack/fonts/fonts.md)
         -   [8 paletas de colores que debes conocer](/BitSnack/color-palettes/color-palettes.md)
         -   [Apps](/BitSnack/apps/apps.md)
+        -   [Apps 2](/BitSnack/apps-2/apps-2.md)
         -   [Comandos básicos para git](/BitSnack/git-commands/git-commands.md)
         -   [Console](/BitSnack/console/console.md)
         -   [Ghost](/BitSnack/Ghost/Ghost.md)
