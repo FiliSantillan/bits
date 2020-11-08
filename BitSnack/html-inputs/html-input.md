@@ -18,7 +18,7 @@
 
 ![html-inputs-09](./html-inputs-09.png)
 
-> Código utilizado en los ejemplos: [html-inputs.html](/BitSnack/html-inputs/html-input.md)
+> Código utilizado en los ejemplos: [html-inputs.html](/BitSnack/html-inputs/html-input.html)
 
 ## 🤓 Aprende algo nuevo hoy
 

@@ -8,9 +8,9 @@ HTML para darle estructura y forma, CSS para los estilos y JavaScript para la l�
 
 Bit completo en: [filisantillan.com](https://filisantillan.com/bits/dom/)
 
-![DOM](./dom.png)
+![DOM](./DOM.png)
 
-> Código utilizado en los ejemplos: [DOM.js](./dom.js)
+> Código utilizado en los ejemplos: [DOM.js](./DOM.js)
 
 ## 🤓 Aprende algo nuevo hoy
 
