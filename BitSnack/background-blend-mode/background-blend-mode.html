@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <title>Background blend mode</title>
+
+        <meta charset="UTF-8">
+        <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+        <style>
+
+        /* Ejemplo de los bits */
+
+        .container {
+            width: 720px;
+            height: 480px;
+            background-image: url("image.jpg"),
+                              url("image-2.jpg");
+            background-color: #FFD166;
+            background-blend-mode: difference;
+        }
+
+        /* Demo */
+
+        .container {
+            width: 720px;
+            height: 480px;
+            background-image: url("https://images.unsplash.com/photo-1572826246393-e42b63b4ac82?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"), url("https://images.unsplash.com/photo-1576888529985-faa585050aab?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80");
+            background-position: center;
+            background-size: cover;
+            background-color: #FFD166;
+            background-blend-mode: darken;
+        }
+
+        /* Posibles valores */
+
+        .element {
+            background-blend-mode: normal;
+            background-blend-mode: multiply;
+            background-blend-mode: overlay;
+            background-blend-mode: screen;
+            background-blend-mode: darken;
+            background-blend-mode: lighten;
+            background-blend-mode: color-dodge;
+            background-blend-mode: color-burn;
+            background-blend-mode: hard-light;
+            background-blend-mode: soft-light;
+            background-blend-mode: difference;
+            background-blend-mode: exclusion;
+            background-blend-mode: hue;
+            background-blend-mode: saturation;
+            background-blend-mode: color;
+            background-blend-mode: luminosity;
+        }
+    </style>
+
+    </head>
+    <body>
+        <div class="container"></div>
+    </body>
+</html>

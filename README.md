@@ -71,6 +71,7 @@ Sitio web: http://filisantillan.com
     -   ### CSS
 
         -   [5 Características de CSS](/BitSnack/css-features/css-features.md)
+        -   [Background Blend Mode](/BitSnack/background-blend-mode/background-blend-mode.md)
         -   [CSS Houdini](/BitSnack/css-houdini/css-houdini.md)
         -   [Flexbox](/BitSnack/flexbox/flexbox.md)
         -   [Grid Layout](/BitSnack/grid-layout/grid-layout.md)
