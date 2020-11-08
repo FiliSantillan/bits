@@ -91,6 +91,7 @@ Sitio web: http://filisantillan.com
     -   ### Otros
 
         -   [4 técnicas para mejorar el performance](/BitSnack/performance/performance.md)
+        -   [4 técnicas para mejorar el performance 2](/BitSnack/performance-2/performance-2.md)
         -   [8 fuentes para programar](/BitSnack/fonts/fonts.md)
         -   [8 paletas de colores que debes conocer](/BitSnack/color-palettes/color-palettes.md)
         -   [Apps](/BitSnack/apps/apps.md)

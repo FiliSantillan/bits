@@ -1,0 +1,30 @@
+<!-- lazy loading -->
+
+<img loading="lazy" src="image.jpg">
+<iframe loading="lazy" src="site.html"></iframe>
+
+<!-- Critical CSS -->
+
+<head>
+    <style> /* CSS crítico */  </style>
+    <link href="css-no-critico.css" rel="stylesheet" type="text/css">
+</head>
+
+<!-- Images -->
+
+<picture class="post-card-cover">
+    <!-- Tamaño de pantalla de 1200px en adelante -->
+    <source media="(min-width: 1200px)"
+            srcset="image-1200.jpg 1x, image-1200@2x.jpg 2x">
+
+    <!-- Tamaño de pantalla de 1024px en adelante -->
+    <source media="(min-width: 1024px)"
+            srcset="image-1024.jpg 1x, image-1024@2x.jpg 2x">
+
+    <!-- Tamaño de pantalla de 425px en adelante -->
+    <source media="(min-width: 425px)"
+            srcset="image-425.jpg  1x, image-425@2x.jpg 2x">
+
+    <!-- Imagen por defecto -->
+    <img src="image.jpg" srcset="image@2x.jpg 2x">
+</picture>
