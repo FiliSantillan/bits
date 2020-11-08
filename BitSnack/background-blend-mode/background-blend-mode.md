@@ -18,7 +18,7 @@ La propiedad `background-blend-mode` establece como se debe de mezclar una image
 
 ![background-blend-mode-08](./background-blend-mode-08.png)
 
-> Código utilizado en los ejemplos: [background-blend-mode.html](/BitSnack/background-blend-mode.html)
+> Código utilizado en los ejemplos: [background-blend-mode.html](/BitSnack/background-blend-mode/background-blend-mode.html)
 
 ## 🤓 Aprende algo nuevo hoy
 
