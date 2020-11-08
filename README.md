@@ -103,6 +103,7 @@ Sitio web: http://filisantillan.com
         -   [Tipos de input en HTML](/BitSnack/html-inputs/html-input.md)
         -   [VSCode (extensiones)](/BitSnack/vscode-extensions/VSCode-extensions.md)
         -   [VSCode (temas)](/BitSnack/vscode-theme/vscode-themes.md)
+        -   [VSCode (temas 2)](/BitSnack/vscode-theme-2/vscode-themes-2.md)
 
 -   ### [BitQuiz](/BitQuiz/)
 
