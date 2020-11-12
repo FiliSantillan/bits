@@ -1,0 +1,15 @@
+/* Sin is() ❌ */
+
+header a,
+section a,
+footer a {
+    color: tomato;
+    text-decoration: none;
+}
+
+/* Con is() ✅ */
+
+:is(header, section, footer) a {
+    color: tomato;
+    text-decoration: none;
+}

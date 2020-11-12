@@ -33,6 +33,7 @@ Sitio web: http://filisantillan.com
         -   [Child selector](BitCode/child-selector/child-selector.md)
         -   [font-display](/BitCode/font-display/font-display.md)
         -   [image-set](BitCode/image-set/image-set.md)
+        -   [is()](BitCode/is/is.md)
         -   [Media Query Ranges](/BitCode/media-query-ranges/media-query-ranges.md)
         -   [prefers-color-scheme](/BitCode/prefers-color-scheme/prefers-color-scheme.md)
         -   [Selector de hermanos adyacentes](/BitCode/adjacent-sibling-selector/adjacent-sibling-selector.md)
