@@ -79,6 +79,7 @@ Sitio web: http://filisantillan.com
 
     -   ### JavaScript
 
+        -   [async/await](/BitSnack/async-await/async-await.md)
         -   [Formas de clonar arrays](/BitSnack/clone-arrays/clone-arrays.md)
         -   [De jQuery a JavaScript](/BitSnack/jquery-js/jquery-js.md)
         -   [Destructuring](/BitSnack/Destructuring/destructuring.md)
