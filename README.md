@@ -115,14 +115,10 @@ Sitio web: http://filisantillan.com
         -   [VSCode (temas)](/BitSnack/vscode-theme/vscode-themes.md)
         -   [VSCode (temas 2)](/BitSnack/vscode-theme-2/vscode-themes-2.md)
 
--   ### [BitQuiz](/BitQuiz/)
+-   ### [Posters](/posters/)
 
-    -   ### JavaScript
-
-        -   [Quiz 01](/BitQuiz/js-quiz-01/js-quiz-01.md)
-
-    -   ### CSS
-        -   [Quiz 01](/BitQuiz/css-quiz-01/css-quiz.md)
+    -   ### Otros
+        -   [Extensiones para VSCODE](/posters/vscode/vscode-extensions.png)
 
 ## ✨ Comparte
 
