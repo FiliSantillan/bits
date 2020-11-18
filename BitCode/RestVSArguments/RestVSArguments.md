@@ -1,8 +1,8 @@
 # Rest VS Arguments
 
-Cuando se usa el objeto `arguments` este no tiene acceso a métodos que comúnmente tenemos en un array (`map`, `filter`, `pop`). Por lo cual, tiene que pasar por un proceso de conversión.
+Cuando se usa el objeto `arguments` éste no tiene acceso a métodos que comúnmente tenemos en un array (`map`, `filter`, `pop`). Por lo cual, tiene que pasar por un proceso de conversión.
 
-Para evitar este proceso esta el operador `rest` que representa un número indefinido de argumentos como un array.
+Para evitar este proceso está el operador `rest` que representa un número indefinido de argumentos como un array.
 
 > Código utilizado en los ejemplos: [RestVSArguments.js](/BitCode/RestVSArguments/RestVSArguments.js).
 
