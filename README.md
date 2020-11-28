@@ -105,6 +105,7 @@ Sitio web: http://filisantillan.com
         -   [Comandos básicos para git](/BitSnack/git-commands/git-commands.md)
         -   [Console](/BitSnack/console/console.md)
         -   [Ghost](/BitSnack/Ghost/Ghost.md)
+        -   [srcset](/BitSnack/srcset/srcset.md)
         -   [Libros que debes de conocer](/BitSnack/books/books.md)
         -   [Tipos de input en HTML](/BitSnack/html-inputs/html-input.md)
         -   [VSCode (extensiones)](/BitSnack/vscode-extensions/VSCode-extensions.md)
