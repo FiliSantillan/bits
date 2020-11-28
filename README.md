@@ -113,6 +113,8 @@ Sitio web: http://filisantillan.com
         -   [VSCode (temas 2)](/BitSnack/vscode-theme-2/vscode-themes-2.md)
 
 -   ### [Posters](/posters/)
+    -   ### JavaScript
+        -   [Características de ES2020](/posters/javascript/ES2020/ES2020.png)
 
     -   ### Otros
         -   [Extensiones para VSCODE](/posters/vscode/vscode-extensions.png)
