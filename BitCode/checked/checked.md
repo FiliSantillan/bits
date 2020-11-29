@@ -2,7 +2,7 @@
 
 `:checked` es una pseudo-clase que representa cuando un input tipo `radio` o `checkbox` está marcado o seleccionado por el usuario, es decir cuando entra en el estado activo (`checked`).
 
-Bit completo en: [filisantillan.com](https://filisantillan.com/bits/is/)
+Bit completo en: [filisantillan.com](https://filisantillan.com/bits/checked/)
 
 ![is CSS](./checked.png)
 

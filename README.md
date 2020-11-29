@@ -26,6 +26,7 @@ Sitio web: http://filisantillan.com
 
     -   ### CSS
         -   [:checked](BitCode/checked/checked.md)
+        -   [:valid](/BitCode/valid/valid.md)
         -   [Child selector](BitCode/child-selector/child-selector.md)
         -   [font-display](/BitCode/font-display/font-display.md)
         -   [image-set](BitCode/image-set/image-set.md)
