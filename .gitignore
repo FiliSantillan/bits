@@ -56,13 +56,14 @@ videos/
 *.psd
 *-code*.png
 *@2x.png
-*-tw.png
-*-fb.png
-*-ig.png
-*-in.png
+*-tw*.png
+*-fb*.png
+*-ig*.png
+*-in*.png
 *-ss.png
 *-post.png
 shot*.png
+*.mp4
 
 ######################
 # NodeJS / JS #
