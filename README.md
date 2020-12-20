@@ -60,6 +60,7 @@ Sitio web: http://filisantillan.com
         -   [trim()](/BitCode/trim/trim.md)
         -   [slice()](/BitCode/slice/slice.md)
         -   [var, let y const](./BitCode/var-let-const/var-let-const.md)
+        -   [URLSearchParams](/BitCode/URLSearchParams/URLSearchParams.md)
         -   [Vibration API](/BitCode/vibration-api/vibration-api.md)
 
     -   ### Otros
