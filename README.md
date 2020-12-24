@@ -109,6 +109,7 @@ Sitio web: http://filisantillan.com
         -   [Mis Apps 2](/BitSnack/apps-2/apps-2.md)
         -   [Comandos básicos para git](/BitSnack/git-commands/git-commands.md)
         -   [Conoce las expresiones regulares](/BitSnack/regExp/regExp.md)
+        -   [Conoce las expresiones regulares 02](/BitSnack/regExp2/regExp2.md)
         -   [Console](/BitSnack/console/console.md)
         -   [Ghost](/BitSnack/Ghost/Ghost.md)
         -   [srcset](/BitSnack/srcset/srcset.md)
