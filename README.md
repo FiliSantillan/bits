@@ -124,6 +124,7 @@ Sitio web: http://filisantillan.com
     -   ### JavaScript
         -   [Características de ES2020](/posters/javascript/ES2020/ES2020.png)
         -   [Hoisting](/posters/javascript/hoisting/hoisting.png)
+        -   [Web APIs](/posters/javascript/webAPIs/webAPIs.png)
 
     -   ### Otros
         -   [Extensiones para VSCODE](/posters/vscode/vscode-extensions.png)
