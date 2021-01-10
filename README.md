@@ -64,6 +64,9 @@ Sitio web: http://filisantillan.com
         -   [URLSearchParams](/BitCode/URLSearchParams/URLSearchParams.md)
         -   [Vibration API](/BitCode/vibration-api/vibration-api.md)
 
+    -   ### React
+        -   [useState](/BitCode/useState/useState.md)
+
     -   ### Otros
         -   [CSSOM](/BitCode/CSSOM/CSSOM.md)
         -   [DOM](/BitCode/DOM/DOM.md)
