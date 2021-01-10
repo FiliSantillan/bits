@@ -112,8 +112,9 @@ Sitio web: http://filisantillan.com
         -   [Mis Apps](/BitSnack/apps/apps.md)
         -   [Mis Apps 2](/BitSnack/apps-2/apps-2.md)
         -   [Comandos básicos para git](/BitSnack/git-commands/git-commands.md)
-        -   [Conoce las expresiones regulares](/BitSnack/regExp/regExp.md)
+        -   [Conoce las expresiones regulares 01](/BitSnack/regExp/regExp.md)
         -   [Conoce las expresiones regulares 02](/BitSnack/regExp2/regExp2.md)
+        -   [Conoce las expresiones regulares 03](/BitSnack/regExp3/regExp3.md)
         -   [Console](/BitSnack/console/console.md)
         -   [Ghost](/BitSnack/Ghost/Ghost.md)
         -   [srcset](/BitSnack/srcset/srcset.md)
@@ -132,6 +133,7 @@ Sitio web: http://filisantillan.com
 
     -   ### Otros
         -   [Extensiones para VSCODE](/posters/vscode/vscode-extensions.png)
+
 
 ## ✨ Comparte
 
