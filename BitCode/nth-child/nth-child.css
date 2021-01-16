@@ -1,0 +1,14 @@
+/* Tercer elemento */
+li:nth-child(3) {
+    background: red;
+}
+
+/* Todos los elementos pares */
+li:nth-child(2n) {
+    background: blue;
+}
+
+/* Todos los elementos impares */
+li:nth-child(2n + 1) {
+    background: red;
+}

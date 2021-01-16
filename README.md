@@ -35,6 +35,7 @@ Sitio web: http://filisantillan.com
         -   [image-set](BitCode/image-set/image-set.md)
         -   [is()](BitCode/is/is.md)
         -   [Media Query Ranges](/BitCode/media-query-ranges/media-query-ranges.md)
+        -   [nth-child](/BitCode/nth-child/nth-child.md)
         -   [prefers-color-scheme](/BitCode/prefers-color-scheme/prefers-color-scheme.md)
         -   [Selector de hermanos adyacentes](/BitCode/adjacent-sibling-selector/adjacent-sibling-selector.md)
         -   [Selector de hermanos generales](/BitCode/general-sibling-selector/general-sibling-selector.md)
