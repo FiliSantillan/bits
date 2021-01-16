@@ -104,6 +104,7 @@ Sitio web: http://filisantillan.com
         -   [React Hooks](/BitSnack/react-hooks/react-hooks.md)
 
     -   ### Otros
+        -   [5 Consejos para organizar tus objetivos](BitSnack/organization/organizacion.md)
         -   [2020](/BitSnack/2020/2020.md)
         -   [8 fuentes para programar](/BitSnack/fonts/fonts.md)
         -   [8 paletas de colores que debes conocer](/BitSnack/color-palettes/color-palettes.md)
