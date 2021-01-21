@@ -130,6 +130,9 @@ Sitio web: http://filisantillan.com
         -   [VSCode (temas 2)](/BitSnack/vscode-theme-2/vscode-themes-2.md)
 
 -   ### [Posters](/posters/)
+    -   ### CSS
+        -   [CSS Houdini](/posters/css/houdini/css-houdini.png)
+
     -   ### JavaScript
         -   [Características de ES2020](/posters/javascript/ES2020/ES2020.png)
         -   [Hoisting](/posters/javascript/hoisting/hoisting.png)
