@@ -1,0 +1,7 @@
+article#character div.container span {
+    /* code... */
+}
+
+.character div span:nth-of-type(1) {
+    /* code... */
+}
