@@ -43,6 +43,7 @@ Sitio web: http://filisantillan.com
         -   [Scroll Snap](/BitCode/scroll-snap/scroll-snap.md)
 
     -   ### JavaScript
+        -   [arrow functions](/BitCode/arrow-functions/arrow-functions.md)
         -   [BigInt](/BitCode/BigInt/BigInt.md)
         -   [Clipboard API](/BitCode/ClipboardApi/clipboardApi.md)
         -   [Destructuring](/BitCode/Destructuring/destructuring.md)
