@@ -92,6 +92,7 @@ Sitio web: http://filisantillan.com
         -   [De jQuery a JavaScript](/BitSnack/jquery-js/jquery-js.md)
         -   [Destructuring](/BitSnack/Destructuring/destructuring.md)
         -   [ES2020](/BitSnack/ES2020/ES2020.md)
+        -   [ES2021](/BitSnack/ES2021/ES2021.md)
         -   [for...in](/BitSnack/for...in/for...in.md)
         -   [for...of](/BitSnack/for...of/for...of.md)
         -   [forEach](/BitSnack/forEach/forEach.md)
