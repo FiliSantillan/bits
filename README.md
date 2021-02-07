@@ -139,6 +139,7 @@ Sitio web: http://filisantillan.com
     -   ### JavaScript
         -   [Características de ES2020](/posters/javascript/ES2020/ES2020.png)
         -   [Hoisting](/posters/javascript/hoisting/hoisting.png)
+        -   [JavaScript Intro](/posters/javascript/intro/javascript.png)
         -   [Web APIs](/posters/javascript/webAPIs/webAPIs.png)
 
     -   ### Otros
