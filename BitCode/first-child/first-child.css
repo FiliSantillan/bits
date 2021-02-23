@@ -1,0 +1,4 @@
+/* Selecciona el primer elemento */
+li:first-child {
+    background: yellow;
+}
