@@ -1,0 +1,63 @@
+// odd
+
+li:nth-child(odd) {
+    background: pink;
+}
+
+// even
+
+li:nth-child(even) {
+    background: pink;
+}
+
+// nth-child(3)
+
+li:nth-child(3) {
+    background: pink;
+}
+
+// odd formula
+
+li:nth-child(2n + 1) {
+    ...;
+}
+
+// odd breakdown
+
+2n + 1
+
+2 x 0 + 1 = 1 /* Selecciona el primer elemento */
+2 x 1 + 1 = 3 /* Selecciona el tercer elemento */
+2 x 2 + 1 = 5 /* Selecciona el quinto elemento */
+2 x 3 + 1 = 7 /* Selecctiona el séptimo elemento */
+
+// even formula
+
+li:nth-child(2n) {
+    ...;
+}
+
+2n
+
+2 x 0 = 0 /* No selecciona nada */
+2 x 1 = 2 /* Selecciona el segundo elemento */
+2 x 2 = 4 /* selecciona el cuarto elemento */
+2 x 3 = 6 /* Sekecciona el sexto elemento */
+
+// nth-child(n+3)
+
+li:nth-child(n+3) {
+    background: pink;
+}
+
+// nth-child(-n+3)
+
+li:nth-child(-n + 3) {
+    background: blue;
+}
+
+// selectores
+
+.container div:nth-child(-n + 3 of .image) {
+    border: 1px solid red;
+}

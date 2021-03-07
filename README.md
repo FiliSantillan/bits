@@ -80,6 +80,7 @@ Sitio web: http://filisantillan.com
 
     -   ### CSS
 
+        -   [:nth-child](/BitSnack/nth-child/nth-child.md)
         -   [5 Características de CSS](/BitSnack/css-features/css-features.md)
         -   [Background Blend Mode](/BitSnack/background-blend-mode/background-blend-mode.md)
         -   [CSS Houdini](/BitSnack/css-houdini/css-houdini.md)
