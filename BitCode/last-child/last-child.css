@@ -1,0 +1,4 @@
+/* Selecciona el último elemento */
+li:last-child {
+    background: yellow;
+}
