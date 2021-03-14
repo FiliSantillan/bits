@@ -92,7 +92,6 @@ Sitio web: http://filisantillan.com
     -   ### JavaScript
 
         -   [async/await](/BitSnack/async-await/async-await.md)
-        -   [Formas de clonar arrays](/BitSnack/clone-arrays/clone-arrays.md)
         -   [De jQuery a JavaScript](/BitSnack/jquery-js/jquery-js.md)
         -   [Destructuring](/BitSnack/Destructuring/destructuring.md)
         -   [ES2020](/BitSnack/ES2020/ES2020.md)
@@ -100,9 +99,11 @@ Sitio web: http://filisantillan.com
         -   [for...in](/BitSnack/for...in/for...in.md)
         -   [for...of](/BitSnack/for...of/for...of.md)
         -   [forEach](/BitSnack/forEach/forEach.md)
+        -   [Formas de clonar arrays](/BitSnack/clone-arrays/clone-arrays.md)
         -   [includes()](/BitSnack/includes/includes.md)
         -   [Object.entries()](/BitSnack/Object.entries/Object.entries.md)
         -   [Object.values()](/BitSnack/Object.values/Object.values.md)
+        -   [Picture-in-picture](/BitSnack/pip/pip.md)
         -   [Promesas en JavaScript](/BitSnack/promises/promises.md)
         -   [var, let y const](/BitSnack/var-let-const/var-let-const.md)
 
