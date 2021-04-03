@@ -107,6 +107,7 @@ Sitio web: http://filisantillan.com
         -   [Picture-in-picture](/BitSnack/pip/pip.md)
         -   [Promesas en JavaScript](/BitSnack/promises/promises.md)
         -   [var, let y const](/BitSnack/var-let-const/var-let-const.md)
+        -   [Web Share](/BitSnack/web-share/web-share.md)
 
     -   ### React
 
