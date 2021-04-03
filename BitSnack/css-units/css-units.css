@@ -1,0 +1,63 @@
+/* ¿Qué son? */
+
+body {
+    margin: 10px;
+}
+
+/* Unidades relativas: (%) */
+
+.element {
+    width: 50%;
+}
+
+/* Unidades relativas (em & rem) */
+
+html {
+    font-size: 20px;
+}
+
+.red {
+    width: 3rem; /* 60px */
+}
+
+.blue {
+    font-size: 18px;
+    width: 3em; /* 54px */
+}
+
+.blue .blue-child {
+    width: 1em; /* 18px */
+}
+
+/* Unidades relativas (vw & vh) */
+
+/* 50% respecto al
+   ancho de la ventana */
+
+/* 80% respecto al
+   alto de la ventana */
+
+.element {
+    width: 50vw;
+    height: 80vh;
+}
+
+/* Unidades relativas (vmin & vmax) */
+
+.element {
+    width: 30vmin; /* 30% */
+}
+
+.element-2 {
+    width: 60vmax; /* 60% */
+}
+
+/* Unidades relativas (ch & ex) */
+
+.element {
+    width: 1ch;
+}
+
+.element {
+    width: 1ex;
+}
