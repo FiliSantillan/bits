@@ -143,8 +143,9 @@ Sitio web: http://filisantillan.com
 
 -   ### [Posters](/posters/)
     -   ### CSS
+        -   [Centrar elementos con CSS](/posters/css/flexbox/flexbox-center.png)
         -   [CSS Houdini](/posters/css/houdini/css-houdini.png)
-
+        
     -   ### JavaScript
         -   [Características de ES2020](/posters/javascript/ES2020/ES2020.png)
         -   [Hoisting](/posters/javascript/hoisting/hoisting.png)
