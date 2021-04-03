@@ -1,0 +1,23 @@
+/* Sintaxis */
+
+.element {
+    background: purple;
+    width: calc(100% / 3);
+    height: 50px;
+}
+
+/* Porcentajes y píxeles */
+
+.element {
+    background: purple;
+    width: calc((100% - 30px) / 3);
+    margin: 0 5px;
+    height: 50px;
+}
+
+/* Tip */
+
+.element {
+    calc(80% -5px); ❌
+    calc(80% - 5px); ✅
+}
