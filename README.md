@@ -161,6 +161,7 @@ Sitio web: http://filisantillan.com
         -   [Web APIs](/posters/javascript/webAPIs/webAPIs.png)
 
     -   ### Otros
+        -   [4 Sitios para practicar y mejorar como dev](/posters/others/learn/sites-learn.png)
         -   [Extensiones para VSCODE](/posters/vscode/vscode-extensions.png)
         -   [Personas fascinantes que debes conocer 01](/posters/others/creators/creators.png)
         -   [Personas fascinantes que debes conocer 02](/posters/others/creators/creators-02.png)
