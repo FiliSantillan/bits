@@ -113,6 +113,7 @@ Sitio web: http://filisantillan.com
         -   [Object.values()](/BitSnack/Object.values/Object.values.md)
         -   [Picture-in-picture](/BitSnack/pip/pip.md)
         -   [Promesas en JavaScript](/BitSnack/promises/promises.md)
+        -   [V8 y el JavaScript Engine](/BitSnack/v8-js-engine/v8-js-engine.md)
         -   [var, let y const](/BitSnack/var-let-const/var-let-const.md)
         -   [Web Share](/BitSnack/web-share/web-share.md)
 
