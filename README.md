@@ -39,6 +39,7 @@ Sitio web: http://filisantillan.com
         -   [is()](BitCode/is/is.md)
         -   [Media Query Ranges](/BitCode/media-query-ranges/media-query-ranges.md)
         -   [nth-child](/BitCode/nth-child/nth-child.md)
+        -   [nth-last-child](/BitCode/nth-last-child/nth-last-child.md)
         -   [nth-of-type](/BitCode/nth-of-type/nth-of-type.md)
         -   [object-fit](/BitCode/object-fit/object-fit.md)
         -   [prefers-color-scheme](/BitCode/prefers-color-scheme/prefers-color-scheme.md)

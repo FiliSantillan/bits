@@ -1,0 +1,11 @@
+/* Todos los elementos pares,
+   contando desde el atrás */
+li:nth-last-child(2n) {
+    background: green;
+}
+
+/* Todos los elementos impares,
+   contando desde el atrás */
+li:nth-last-child(2n + 1) {
+    background: blue;
+}
