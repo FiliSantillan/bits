@@ -25,6 +25,7 @@ Sitio web: http://filisantillan.com
 -   ### [BitCode](/BitCode/)
 
     -   ### CSS
+        -   [::before](BitCode/before/before.md)
         -   [:active](BitCode/active/active.md)
         -   [:checked](BitCode/checked/checked.md)
         -   [:first-child](BitCode/first-child/first-child.md)

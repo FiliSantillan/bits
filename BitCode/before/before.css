@@ -1,0 +1,5 @@
+/* Añade el emoji antes de los enlaces */
+
+a::before {
+    content: "🔗";
+}
