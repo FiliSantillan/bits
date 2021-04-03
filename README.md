@@ -77,6 +77,7 @@ Sitio web: http://filisantillan.com
         -   [useState](/BitCode/useState/useState.md)
 
     -   ### Otros
+        -   [async](/BitCode/async/async.md)
         -   [CSSOM](/BitCode/CSSOM/CSSOM.md)
         -   [DOM](/BitCode/DOM/DOM.md)
 
