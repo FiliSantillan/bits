@@ -79,6 +79,7 @@ Sitio web: http://filisantillan.com
     -   ### Otros
         -   [async](/BitCode/async/async.md)
         -   [CSSOM](/BitCode/CSSOM/CSSOM.md)
+        -   [defer](/BitCode/defer/defer.md)
         -   [DOM](/BitCode/DOM/DOM.md)
 
 -   ### [BitSnack](/BitSnack/)
