@@ -138,6 +138,7 @@ Sitio web: http://filisantillan.com
         -   [Ruta para convertirse en Frontend Developer](/BitSnack/frontRoadmap/frontRoadmap.md)
         -   [srcset](/BitSnack/srcset/srcset.md)
         -   [Tipos de input en HTML](/BitSnack/html-inputs/html-input.md)
+        -   [Tips para Chrome DevTools](/BitSnack/devTools/devTools.md)
         -   [VSCode (extensiones)](/BitSnack/vscode-extensions/VSCode-extensions.md)
         -   [VSCode (temas)](/BitSnack/vscode-theme/vscode-themes.md)
         -   [VSCode (temas 2)](/BitSnack/vscode-theme-2/vscode-themes-2.md)
