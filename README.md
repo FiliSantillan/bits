@@ -27,6 +27,7 @@ Sitio web: http://filisantillan.com
     -   ### CSS
         -   [::before](BitCode/before/before.md)
         -   [:active](BitCode/active/active.md)
+        -   [:after](BitCode/after/after.md)
         -   [:checked](BitCode/checked/checked.md)
         -   [:disabled](BitCode/disabled/disabled.md)
         -   [:first-child](BitCode/first-child/first-child.md)
