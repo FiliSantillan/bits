@@ -28,6 +28,7 @@ Sitio web: http://filisantillan.com
         -   [::before](BitCode/before/before.md)
         -   [:active](BitCode/active/active.md)
         -   [:checked](BitCode/checked/checked.md)
+        -   [:disabled](BitCode/disabled/disabled.md)
         -   [:first-child](BitCode/first-child/first-child.md)
         -   [:hover](BitCode/hover/hover.md)
         -   [:invalid](/BitCode/invalid/invalid.md)

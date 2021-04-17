@@ -1,0 +1,5 @@
+/* Todos los botones deshabilitados */
+
+button:disabled {
+    background: gray;
+}
